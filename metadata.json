@@ -1,0 +1,6 @@
+{
+  "name": "World War II: The War That Changed the World",
+  "description": "An immersive historical documentary and archival chronicle of World War II (1939–1945) featuring synchronized narration, interactive timeline, military theaters, and primary historical dossier.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
